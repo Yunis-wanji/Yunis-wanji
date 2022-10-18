@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### :hammer_and_wrench: Languages and Tools :
+
+https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
